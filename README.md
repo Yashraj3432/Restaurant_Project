@@ -1,4 +1,4 @@
-# Resturant_Project
+# Restaurant_Project
 
 ### 🍽 Restaurant Website
 A fully functional and responsive Restaurant Website built using Python and Django for the backend and HTML5, CSS3 for the frontend. This website includes essential features for managing a restaurant business, such as menu display, customer feedback, and reservation management.
