@@ -16,8 +16,11 @@ Customer Feedback: Collect and display customer reviews and feedback.
 ### 🛠 Tech Stack
 
 **Backend:** Django (Python)
+
 **Frontend:** HTML5, CSS3, Bootstrap
+
 **Database:** SQLite (default) or PostgreSQL/MySQL (optional)
+
 **Authentication:** Django's built-in authentication for admin users
 
 ### 📂 Project Structure
